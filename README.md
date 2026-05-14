@@ -2,7 +2,7 @@
 <h1 align="center"><b>TLauncher ( Minecraft Launcher )</b></h1>
 <br>
 
-Neste repositório, estará disponível o passo-a-passo para os calouros (ou veteranos) conseguirem jogar seu *[Minecraft](https://pt.wikipedia.org/wiki/Minecraft)* tranquilamente no linux ou distribuições diversas no IFPR 👍
+Neste repositório, estará disponível o passo-a-passo para os calouros (ou veteranos) conseguirem jogar seu *[Minecraft](https://pt.wikipedia.org/wiki/Minecraft)* tranquilamente no Linux ou distribuições diversas no IFPR 👍
 
 <br>
 
